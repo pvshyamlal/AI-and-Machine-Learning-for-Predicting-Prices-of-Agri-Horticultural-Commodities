@@ -61,7 +61,7 @@ pip install -r requirements.txt
    To start the Flask (or Streamlit) application, run the following command in your terminal:
 
    ```bash
-   python main.py
+   streamlit run agripricepredictor.py
    ```
 
 2. **Open the browser** and navigate to `http://localhost:8501` (or appropriate local server for Streamlit).

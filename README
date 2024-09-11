@@ -42,8 +42,7 @@ This project is a Minimum Viable Product (MVP) for predicting the future prices 
 1. **Clone the repository** to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/commodity-price-forecasting-mvp.git
-cd commodity-price-forecasting-mvp
+git clone https://github.com/pvshyamlal/AI-and-Machine-Learning-for-Predicting-Prices-of-Agri-Horticultural-Commodities
 ```
 
 2. **Install dependencies** using the following command:
@@ -61,7 +60,7 @@ pip install -r requirements.txt
    To start the Flask (or Streamlit) application, run the following command in your terminal:
 
    ```bash
-   python main.py
+   streamlit run agripricepredictor.py
    ```
 
 2. **Open the browser** and navigate to `http://localhost:8501` (or appropriate local server for Streamlit).
