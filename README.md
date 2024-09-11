@@ -42,7 +42,7 @@ This project is a Minimum Viable Product (MVP) for predicting the future prices 
 1. **Clone the repository** to your local machine:
 
 ```bash
-git clone https://github.com/sandeepmopidevi/predicting-prices-of-agri-horticultural-commodities-using-ai-ml
+git clone https://github.com/pvshyamlal/AI-and-Machine-Learning-for-Predicting-Prices-of-Agri-Horticultural-Commodities
 cd predicting-prices-of-agri-horticultural-commodities-using-ai-ml
 ```
 
